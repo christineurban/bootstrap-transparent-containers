@@ -5,8 +5,6 @@ html {
   -o-background-size: cover;
   background-size: cover;
   color: #000;
-  min-height: 100%;
-  width: 100%;
 
 }
 
@@ -48,10 +46,10 @@ img {
 }
 
 .navbar .nav > li > a {
-    -webkit-transition: all ease .7s;
-       -moz-transition: all ease .7s;
-         -o-transition: all ease .7s;
-            transition: all ease .7s;
+  -webkit-transition: all ease .7s;
+  -moz-transition: all ease .7s;
+  -o-transition: all ease .7s;
+  transition: all ease .7s;
 }
 
 #navbar .nav > li > a:hover {
