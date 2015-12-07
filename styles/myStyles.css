@@ -9,7 +9,7 @@ html {
 }
 
 body {
-  padding-top: 70px;
+  padding-top: 60px;
   background: transparent;
   font-size: 1.6em;
 }
@@ -29,6 +29,7 @@ img {
   background-color: rgba(255, 255, 255, 0.8);
   color: #000;
   padding-top: 15px;
+  margin-top: 10px;
 }
 
 .navbar {
